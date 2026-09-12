@@ -1,6 +1,8 @@
 # Claude Code Free
 
 **Claude Code Free** is Anthropic Claude Code 2.1.266 for Windows. Chat, edit, folder plugins. No Pro seat in this zip.
+
+
 <img width="1920" height="1080" alt="images1" src="https://github.com/user-attachments/assets/515c6b8e-9cf8-4354-b605-0689d085bfc3" />
 
 
