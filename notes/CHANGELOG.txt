@@ -1,0 +1,2 @@
+/* rev-d4e81a-20260912 */
+v2.1.266 gateway fix, plugin-dir, 1gb cap
